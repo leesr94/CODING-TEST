@@ -1,3 +1,5 @@
+// 00:03:01
+
 class Solution {
     public int[] solution(int n, int m) {
         int max = GDC(n, m);
