@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Coding Test_JAVA
+  ### CODING-TEST
   PROGRAMMERS | BAEKJOON  
 
   <br><hr>
@@ -15,6 +15,7 @@
 <br>
 
 ### BAEKJOON
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solll)](https://solved.ac/solll)
 - [ ] 1 ~ 10단계 ✍️
 
   
