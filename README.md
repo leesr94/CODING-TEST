@@ -4,7 +4,7 @@
   PROGRAMMERS | BAEKJOON  
 
   <br><hr>
-  ###### ◻️ : 진행 중 / ☑️ : 완료
+  [ ] : 진행 중 / [X] : 완료
   <br><br>
 
 
