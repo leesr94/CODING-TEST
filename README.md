@@ -13,7 +13,8 @@
 
   ### PROGRAMMERS
   ☑️ Lv.0 (코딩테스트 입문)  
-  ◻️ Lv.1
+  ☑️ Lv.1
+  ◻️ Lv.2
   
 </div>
  
