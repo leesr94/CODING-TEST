@@ -1,0 +1,21 @@
+import java.util.*;
+
+class Solution {
+    public String solution(String s) {
+        s = s.toLowerCase();
+        StringBuilder sb = new StringBuilder();
+        // StringTokenizer를 이용하여 공백(" ")을 기준으로 공백 포함하여 문자열 나누기
+        StringTokenizer st = new StringTokenizer(s, " ", true);
+        
+        // 다음 토큰이 없을 때까지 반복
+        while (st.hasMoreTokens()) {
+            String str = st.nextToken();
+            
+            if (str.length() == 0) sb.append(" ");
+            sb.append(str.substring(0, 1).toUpperCase());
+            sb.append(str.substring(1));
+        }
+        
+        return sb.toString();
+    }
+}
