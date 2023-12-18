@@ -24,6 +24,7 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solll)](https://solved.ac/solll)   
   ### BAEKJOON 
-  ◻️ 1 ~ 10단계
+  ☑️ &nbsp;&nbsp;1 ~ 10 단계    
+  ◻️ 11 ~ 20 단계    
 
 </div>
