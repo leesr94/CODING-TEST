@@ -14,7 +14,10 @@ class Solution {
             int tmp = 0;
             
             for (int i = 2; i <= Math.sqrt(l); i++) {
-                if (l % i == 0) tmp++;
+                if (l % i == 0){
+                    tmp++;
+                    break;
+                }
             }
             
             if (l == 2 || tmp == 0) answer++;
